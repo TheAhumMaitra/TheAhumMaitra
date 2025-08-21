@@ -1,25 +1,21 @@
 <h1 align="center">Hi 👋, I'm Ahum Maitra</h1>
-<h3 align="center">I'm Ahum. I'm a very young programmer. I want to be an AI Engineer. Thanks for visiting my Github page. View some great projects! Happy coding!</h3>
+<h3 align="center">I'm Ahum. I'm a very young programmer. I want to be an AI and ML Engineer. Thanks for visiting my Github page. View some great projects! Happy coding!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theahummaitra&label=Profile%20views&color=0e75b6&style=flat" alt="theahummaitra" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theahummaitra" alt="theahummaitra" /></a> </p>
 
-- 🔭 I’m currently working on [My Great Python Projects](https://github.com/TheAhumMaitra/My-great-projects-with-Python)
+- 🔭 I’m currently working on some projects.... They will be revealed as soon as possible! Check out my open source projects!
 
-- 🌱 I’m currently learning **Python, etc.**
-
-- 🔭 I’m currently working on [Some Creative Works](https://github.com/TheAhumMaitra/Some-Creative-Works)
+- 🌱 I’m currently learning **Python and C**
 
 - 👨‍💻 All of my projects are available at [https://github.com/TheAhumMaitra/](https://github.com/TheAhumMaitra/)
 
-- 📝 I regularly write articles on [Still Building](Still Building)
-
-- 💬 Ask me about **Python (intermediate), HTML, CSS (intermediate), JavaScript (intermediate)**
+- 💬 Ask me about **Python  and HTML, CSS and C**
 
 - 📫 How to reach me **theahummaitra+fav_code@gmail.com**
 
-- ⚡ Fun fact **I think, I'm an error solver**
+- ⚡ Fun fact **I love reading books (not every)**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
