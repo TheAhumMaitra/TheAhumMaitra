@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahum Maitra</h1>
-<h3 align="center">I'm Ahum. I'm a very young programmer. I want to be an AI and ML Engineer. Thanks for visiting my Github page. View some great projects! Happy coding!</h3>
+<h3 align="center">I'm Ahum. I'm a programmer. I want to be an AI and ML developer and top elite 0.1% Python programmer. Thanks for visiting my Github page. Visit some great projects! Happy coding!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theahummaitra&label=Profile%20views&color=0e75b6&style=flat" alt="theahummaitra" /> </p>
 
@@ -7,19 +7,22 @@
 
 - 🔭 I’m currently working on some projects.... They will be revealed as soon as possible! Check out my open source projects!
 
-- 🌱 I’m currently learning **Python and C**
+- 🌱 I’m currently learning **Python and C and Ruby and Julia and Web-dev**
+- Don't worry, I'm not learning learning all at once......
 
 - 👨‍💻 All of my projects are available at [https://github.com/TheAhumMaitra/](https://github.com/TheAhumMaitra/)
 
 - 💬 Ask me about **Python  and HTML, CSS and C**
 
-- 📫 How to reach me **theahummaitra+fav_code@gmail.com**
+- 📫 How to reach me **theahummaitra@gmail.com** 
 
-- ⚡ Fun fact **I love reading books (not every)**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- ⚡ Fun facts ; (20%)
+-
+- **I love reading books (not every)**
+- **I love Santa Claus**
+- **I love Harry Potter**
+- **I love various movies**,
+- ***etc.***
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
