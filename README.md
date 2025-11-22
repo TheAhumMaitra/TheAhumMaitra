@@ -2,9 +2,6 @@
 
 ### I'm Ahum. I'm a programmer and CS Student. I want to be an AI and ML developer and top elite 0.1% Python programmer. Thanks for visiting my Github page. Visit some great projects! Happy coding!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=TheAhumMaitra&label=Profile views&color=0e75b6&style=flat" alt="TheAhumMaitra" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TheAhumMaitra" alt="TheAhumMaitra" /></a> </p>
 
 - 🔭 I'm currently working on **An advanced TUI app using Python **
 
