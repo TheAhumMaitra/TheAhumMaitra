@@ -1,6 +1,4 @@
-<div style="text-align: center;">
 # Hi 👋, I'm Ahum Maitra
-</div>
 
 ### I'm Ahum. I'm a programmer and CS Student. I want to be an AI and ML developer and top elite 0.1% Python programmer. Thanks for visiting my Github page. Visit some great projects! Happy coding!
 
