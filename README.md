@@ -2,9 +2,9 @@
 
 ### I'm Ahum. I'm a programmer and CS Student. I want to be an AI and ML developer and top elite 0.1% Python programmer. Thanks for visiting my Github page. Visit some great projects! Happy programming!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=TheAhumMaitra&label=Profile views&color=0e75b6&style=flat" alt="TheAhumMaitra" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=TheAhumMaitra&label=Profile views&color=271745&style=flat" alt="TheAhumMaitra" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TheAhumMaitra" alt="TheAhumMaitra" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TheAhumMaitra&theme=tokyonight&margin-h=15" alt="TheAhumMaitra" /></a> </p>
 
 - 🔭 I'm currently working on **TUI apps and AI apps**
 
