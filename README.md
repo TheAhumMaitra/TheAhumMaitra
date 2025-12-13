@@ -27,7 +27,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=TheAhumMaitra&show_icons=true&locale=en&layout=compact" alt="TheAhumMaitra" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TheAhumMaitra&show_icons=true&locale=en" alt="TheAhumMaitra" /></p>
+![Ahum's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheAhumMaitra&theme=shades-of-purple&show_icons=true&bg_color=00000000)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TheAhumMaitra&" alt="TheAhumMaitra" /></p>
 
