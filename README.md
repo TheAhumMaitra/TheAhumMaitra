@@ -2,9 +2,7 @@
 
 ### I'm Ahum. I'm a programmer and CS Student. I want to be an AI and ML developer and top elite 0.1% Python programmer. Thanks for visiting my Github page. Visit some great projects! Happy programming!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=TheAhumMaitra&label=Profile views&color=271745&style=flat" alt="TheAhumMaitra" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TheAhumMaitra&theme=tokyonight&margin-h=15" alt="TheAhumMaitra" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=TheAhumMaitra&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🔭 I'm currently working on **TUI apps and AI apps**
 
@@ -19,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/TheAhumMaitra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="TheAhumMaitra" height="30" width="40" /></a>
-<a href="https://youtube.com/PythonlyCode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="PythonlyCode" height="30" width="40" /></a>
+<a 9href="https://youtube.com/PythonlyCode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="PythonlyCode" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -29,4 +27,4 @@
 
 ![Ahum's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheAhumMaitra&theme=shades-of-purple&show_icons=true&bg_color=00000000)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=TheAhumMaitra&theme=shades-of-purple)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=TheAhumMaitra&theme=shades-of-purple" alt="GitHub Streak" /></a>
