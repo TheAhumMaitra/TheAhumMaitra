@@ -29,5 +29,4 @@
 
 ![Ahum's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheAhumMaitra&theme=shades-of-purple&show_icons=true&bg_color=00000000)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TheAhumMaitra&" alt="TheAhumMaitra" /></p>
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=TheAhumMaitra&theme=shades-of-purple)](https://git.io/streak-stats)
