@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **theahummaitra@gmail.com**
 
-- 📝 I regularly write articles on **[`My blogging website`](https://haunted-school.vercel.app/)**
+- 📝 I regularly write articles on **[`My blogging website`](https://ahummaitra.vercel.app/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
