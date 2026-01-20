@@ -6,15 +6,13 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=TheAhumMaitra&theme=tokyonight)]()
 
-- 🔭 I'm currently working on **TUI apps and AI apps**
-
-- 👯 I'm looking to collaborate on **my open source projects **
+- 🔭 I'm currently working on **The Last Sushi - A very creepy video game**
 
 - 💬 Ask me about **Python, Rust, JS, TS, Web development frontend and backend (Python), etc.**
 
 - 📫 How to reach me **theahummaitra@gmail.com**
 
-- 📝 I regularly write articles on **[`My blogging website`](https://ahummaitra.vercel.app/)**
+- 📝 I regularly write articles on **[`My website`](https://ahummaitra.vercel.app/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
