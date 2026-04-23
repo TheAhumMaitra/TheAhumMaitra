@@ -1,18 +1,15 @@
 # Hi 👋, I'm Ahum Maitra
 
-### I'm Ahum. I'm a programmer and CS Student. I want to be an AI and ML developer and top elite 0.1% Python programmer. Thanks for visiting my Github page. Visit some great projects! Happy programming!
-
+### I'm Ahum. I'm a programmer, who enjoys programming and creating softwares and websites. Feel free to view some open source projects
 ![](https://komarev.com/ghpvc/?username=TheAhumMaitra&color=blueviolet)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=TheAhumMaitra&theme=tokyonight)]()
 
 - 🔭 I'm currently working on **The Last Sushi - A very creepy video game**
 
-- 💬 Ask me about **Python, Rust, JS, TS, Web development frontend and backend (Python), etc.**
+- 💬 Ask me about **Python, Rust, JS, TS, Web development frontend; backend (Python), etc.**
 
-- 📫 How to reach me **theahummaitra@gmail.com**
-
-- 📝 I regularly write articles on **[`My website`](https://ahummaitra.vercel.app/)**
+- 📝 My website **[`My website`](https://ahummaitra.vercel.app/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
